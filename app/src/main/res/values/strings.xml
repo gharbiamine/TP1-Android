@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP1_Android</string>
+
+    <string-array name="PizzaSizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="Toppings">
+        <item>Cheese</item>
+        <item>Pepperoni</item>
+        <item>Truffle</item>
+        <item>Shrimp</item>
+        <item>Mushroom</item>
+    </string-array>
+</resources>
